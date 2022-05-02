@@ -1,0 +1,64 @@
+body {
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background-color: #200302;
+}
+
+.poster {
+    display: block;
+    width: 411px;
+height: 517px;
+    display: block;
+    object-fit: cover;
+
+    border-radius: 30px;
+}
+
+.name{
+    
+color: #FFFFFF;
+font-family: 'Inter', sans-serif;
+text-align: center;
+line-height: 15px;
+
+}
+
+.desc{
+    color: #A78584;
+    font-family: 'Inter', sans-serif;
+text-align: center;
+
+font-weight: 400;
+font-size: 12px;
+
+line-height: 0px;
+
+}
+
+.content{
+    color: #FFE5E4;
+   
+font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    width: 399px;
+    left: 5800px;
+    height: 120px;
+    font-size: 13px;
+    /* display: block;
+    position: absolute;
+
+
+/*  */
+/* top: 713px; */
+
+
+font-style: normal; 
+
+
+
+}
+
